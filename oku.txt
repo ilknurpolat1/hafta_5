@@ -1,0 +1,1 @@
+ Bir sınıf tanımladık  ve bu sınıf, iki sayı üzerinde dört temel matematiksel işlemi yapıyor bunları da python içerisinde yaptık pycharm üzerinden.
